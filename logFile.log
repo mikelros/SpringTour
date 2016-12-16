@@ -1,0 +1,184 @@
+2016-12-16 11:13:20 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:13:20 CET 2016]; root of context hierarchy
+2016-12-16 11:13:20 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:13:20 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitoringKart,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:14:09 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:14:09 CET 2016]; root of context hierarchy
+2016-12-16 11:14:09 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:14:10 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,monitoringKart,org.springframework.aop.config.internalAutoProxyCreator,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:14:39 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:14:39 CET 2016]; root of context hierarchy
+2016-12-16 11:14:39 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:14:39 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:14:40 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:15:11 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:15:11 CET 2016]; root of context hierarchy
+2016-12-16 11:15:11 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:15:12 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:15:12 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:15:37 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:15:37 CET 2016]; root of context hierarchy
+2016-12-16 11:15:37 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:15:38 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:15:38 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:16:04 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:16:04 CET 2016]; root of context hierarchy
+2016-12-16 11:16:04 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:16:05 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2b98378d: defining beans [monitorTour,org.springframework.aop.config.internalAutoProxyCreator,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour]; root of factory hierarchy
+2016-12-16 11:16:05 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2b98378d: defining beans [monitorTour,org.springframework.aop.config.internalAutoProxyCreator,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour]; root of factory hierarchy
+2016-12-16 11:16:20 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:16:20 CET 2016]; root of context hierarchy
+2016-12-16 11:16:20 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:16:21 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:16:21 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:17:54 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:17:54 CET 2016]; root of context hierarchy
+2016-12-16 11:17:54 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:17:55 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:17:55 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:18:33 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:18:33 CET 2016]; root of context hierarchy
+2016-12-16 11:18:33 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:18:34 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2b98378d: defining beans [manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator]; root of factory hierarchy
+2016-12-16 11:18:34 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2b98378d: defining beans [manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator]; root of factory hierarchy
+2016-12-16 11:18:47 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ae40994: startup date [Fri Dec 16 11:18:47 CET 2016]; root of context hierarchy
+2016-12-16 11:18:47 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:18:47 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:18:47 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@548e7350: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,manager1,manager2,manager3,cyclist1,cyclist2,cyclist3,cyclist4,cyclist5,cyclist6,cyclist7,cyclist8,cyclist9,team1,team2,team3,mountain1,mountain2,mountain3,mountain4,mountain5,mountain6,race1,race2,race3,race4,race5,race6,tour,monitorTour,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+2016-12-16 11:20:47 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7e0b37bc: startup date [Fri Dec 16 11:20:47 CET 2016]; root of context hierarchy
+2016-12-16 11:20:47 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [letour.xml]
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Tour.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:16 - Trying to add team: 
+Team [id=4, name=Central Lechera, description=El equipo más paisano, country=Asturies, cyclists=[
+	Cyclist [id=10, name=David, country=Asturies], 
+	Cyclist [id=11, name=César, country=Asturies], 
+	Cyclist [id=12, name=Luis Enrique, country=Asturies]], manager=Manager [id=4, name=Pipi Estrada]]
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Tour.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Team.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Race.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Mountain.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Cyclist.toString()
+2016-12-16 11:20:48 INFO  MonitorTour:23 - Going to call: String org.sistema.su4.su4act3.Manager.toString()

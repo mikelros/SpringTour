@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+						http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+						http://www.springframework.org/schema/context
+						http://www.springframework.org/schema/context/spring-context-3.0.xsd
+						http://www.springframework.org/schema/aop
+						http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
+	<context:annotation-config/>
+
+	<!-- Manager beans, attributes are set using property -->
+	<bean id="manager1" class="org.sistema.su4.su4act3.Manager">
+		<property name="id" value="1" />
+		<property name="name" value="Manolo" />
+	</bean>
+
+	<bean id="manager2" class="org.sistema.su4.su4act3.Manager">
+		<property name="id" value="2" />
+		<property name="name" value="Juan" />
+	</bean>
+
+	<bean id="manager3" class="org.sistema.su4.su4act3.Manager">
+		<property name="id" value="3" />
+		<property name="name" value="François" />
+	</bean>
+
+	<!-- Cyclists beans, attributes are set using constructor args -->
+	<bean id="cyclist1" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="1" />
+		<constructor-arg name="name" value="Alberto Contador" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist2" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="2" />
+		<constructor-arg name="name" value="Abdujaparov" />
+		<constructor-arg name="country" value="Uzbekistan" />
+	</bean>
+	<bean id="cyclist3" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="3" />
+		<constructor-arg name="name" value="Marino Lejarreta" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist4" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="4" />
+		<constructor-arg name="name" value="Perico Delgado" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist5" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="5" />
+		<constructor-arg name="name" value="Fernando Alonso" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist6" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="6" />
+		<constructor-arg name="name" value="Miguel Indurain" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist7" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="7" />
+		<constructor-arg name="name" value="Abraham Olano" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist8" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="8" />
+		<constructor-arg name="name" value="Bahamontes" />
+		<constructor-arg name="country" value="España" />
+	</bean>
+	<bean id="cyclist9" class="org.sistema.su4.su4act3.Cyclist">
+		<constructor-arg name="id" value="9" />
+		<constructor-arg name="name" value="Laurent Fignon" />
+		<constructor-arg name="country" value="Francia" />
+	</bean>
+
+	<!-- Team beans, attributes are set using constructor args -->
+	<bean id="team1" class="org.sistema.su4.su4act3.Team">
+		<constructor-arg name="id" value="1" />
+		<constructor-arg name="name" value="Team 1" />
+		<constructor-arg name="description" value="A new Team" />
+		<constructor-arg name="country" value="Spain" />
+		<constructor-arg name="cyclists">
+			<list>
+				<ref bean="cyclist1" />
+				<ref bean="cyclist2" />
+				<ref bean="cyclist3" />
+			</list>
+		</constructor-arg>
+		<constructor-arg name="manager" ref="manager1" />
+	</bean>
+
+	<bean id="team2" class="org.sistema.su4.su4act3.Team">
+		<constructor-arg name="id" value="2" />
+		<constructor-arg name="name" value="Team 2" />
+		<constructor-arg name="description" value="The best team ever" />
+		<constructor-arg name="country" value="France" />
+		<constructor-arg name="cyclists">
+			<list>
+				<ref bean="cyclist4" />
+				<ref bean="cyclist5" />
+				<ref bean="cyclist6" />
+			</list>
+		</constructor-arg>
+		<constructor-arg name="manager" ref="manager2" />
+	</bean>
+
+	<bean id="team3" class="org.sistema.su4.su4act3.Team">
+		<constructor-arg name="id" value="3" />
+		<constructor-arg name="name" value="Team 3" />
+		<constructor-arg name="description" value="The worst team ever" />
+		<constructor-arg name="country" value="Italy" />
+		<constructor-arg name="cyclists">
+			<list>
+				<ref bean="cyclist7" />
+				<ref bean="cyclist8" />
+				<ref bean="cyclist9" />
+			</list>
+		</constructor-arg>
+		<constructor-arg name="manager" ref="manager3" />
+	</bean>
+
+	<!-- Mountain beans, attributes set using abbreviated properties -->
+	<bean id="mountain1" class="org.sistema.su4.su4act3.Mountain"
+		p:id="1" p:name="L'Angliru" p:level="1" p:height="1570" p:isPrize="true" />
+	<bean id="mountain2" class="org.sistema.su4.su4act3.Mountain"
+		p:id="2" p:name="Tourmalet" p:level="2" p:height="1300" p:isPrize="true" />
+	<bean id="mountain3" class="org.sistema.su4.su4act3.Mountain"
+		p:id="3" p:name="Teverga" p:level="2" p:height="1042" p:isPrize="true" />
+	<bean id="mountain4" class="org.sistema.su4.su4act3.Mountain"
+		p:id="4" p:name="Alpe d'Huez" p:level="1" p:height="4300" p:isPrize="true" />
+	<bean id="mountain5" class="org.sistema.su4.su4act3.Mountain"
+		p:id="5" p:name="Mendillorri" p:level="3" p:height="666" p:isPrize="false" />
+	<bean id="mountain6" class="org.sistema.su4.su4act3.Mountain"
+		p:id="6" p:name="Midi d'Ossau" p:level="1" p:height="2300" p:isPrize="true" />
+
+	<!-- Race beans, attributes using properties -->
+	<bean id="race1" class="org.sistema.su4.su4act3.Race">
+		<property name="id" value="1" />
+		<property name="name" value="Race 1" />
+		<property name="origin" value="Oviedo" />
+		<property name="destiny" value="Teverga" />
+		<property name="distance" value="174" />
+		<property name="mountains">
+			<list>
+				<ref bean="mountain1" />
+				<ref bean="mountain2" />
+			</list>
+		</property>
+		<property name="outcome">
+			<list>
+				<ref bean="cyclist3" />
+				<ref bean="cyclist2" />
+				<ref bean="cyclist6" />
+			</list>
+		</property>
+	</bean>
+
+	<bean id="race2" class="org.sistema.su4.su4act3.Race">
+		<property name="id" value="2" />
+		<property name="name" value="Race 2" />
+		<property name="origin" value="Paris" />
+		<property name="destiny" value="Calais" />
+		<property name="distance" value="230" />
+		<property name="mountains" value="#{null}" />
+		<property name="outcome">
+			<list>
+				<ref bean="cyclist1" />
+				<ref bean="cyclist5" />
+				<ref bean="cyclist3" />
+			</list>
+		</property>
+	</bean>
+
+	<bean id="race3" class="org.sistema.su4.su4act3.Race">
+		<property name="id" value="3" />
+		<property name="name" value="Race 3" />
+		<property name="origin" value="Tours" />
+		<property name="destiny" value="Poitiers" />
+		<property name="distance" value="180" />
+		<property name="mountains">
+			<list>
+				<ref bean="mountain3" />
+			</list>
+		</property>
+		<property name="outcome">
+			<list>
+				<ref bean="cyclist5" />
+				<ref bean="cyclist4" />
+				<ref bean="cyclist2" />
+			</list>
+		</property>
+	</bean>
+	<bean id="race4" class="org.sistema.su4.su4act3.Race">
+		<property name="id" value="4" />
+		<property name="name" value="Race 4" />
+		<property name="origin" value="Pau" />
+		<property name="destiny" value="Burdeos" />
+		<property name="distance" value="180" />
+		<property name="mountains">
+			<list>
+				<ref bean="mountain4" />
+				<ref bean="mountain5" />
+			</list>
+		</property>
+		<property name="outcome">
+			<list>
+				<ref bean="cyclist2" />
+				<ref bean="cyclist1" />
+				<ref bean="cyclist4" />
+			</list>
+		</property>
+	</bean>
+
+	<bean id="race5" class="org.sistema.su4.su4act3.Race">
+		<property name="id" value="5" />
+		<property name="name" value="Race 5" />
+		<property name="origin" value="Niza" />
+		<property name="destiny" value="Carcassone" />
+		<property name="distance" value="201" />
+		<property name="mountains" value="#{null}" />
+		<property name="outcome">
+			<list>
+				<ref bean="cyclist5" />
+				<ref bean="cyclist2" />
+				<ref bean="cyclist3" />
+			</list>
+		</property>
+	</bean>
+
+	<bean id="race6" class="org.sistema.su4.su4act3.Race">
+		<property name="id" value="6" />
+		<property name="name" value="Race 6" />
+		<property name="origin" value="Perpignan" />
+		<property name="destiny" value="Girona" />
+		<property name="distance" value="210" />
+		<property name="mountains">
+			<list>
+				<ref bean="mountain6" />
+			</list>
+		</property>
+		<property name="outcome">
+			<list>
+				<ref bean="cyclist1" />
+				<ref bean="cyclist2" />
+				<ref bean="cyclist4" />
+			</list>
+		</property>
+	</bean>
+
+	<!-- Le Tour -->
+	<bean id="tour" class="org.sistema.su4.su4act3.Tour">
+		<constructor-arg name="year" value="2015" />
+		<constructor-arg name="name" value="Le Tour 2015" />
+		<constructor-arg name="teams">
+			<list>
+				<ref bean="team1" />
+				<ref bean="team2" />
+				<ref bean="team3" />
+			</list>
+		</constructor-arg>
+		<constructor-arg name="races">
+			<list>
+				<ref bean="race1" />
+				<ref bean="race2" />
+				<ref bean="race3" />
+				<ref bean="race4" />
+				<ref bean="race5" />
+				<ref bean="race6" />
+			</list>
+		</constructor-arg>
+		<constructor-arg name="manager" ref="manager1" />
+	</bean>
+	<bean id="monitorTour" class="org.sistema.su4.su4act3.MonitorTour" />
+	
+	<aop:aspectj-autoproxy>
+		<aop:include name="monitorTour" />
+	</aop:aspectj-autoproxy>
+
+</beans>
